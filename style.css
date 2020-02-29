@@ -1,0 +1,9 @@
+.headerClass {
+    /* comment */
+    color: red;
+    border: thin solid #be01be;
+}
+
+.smallTopMargin {
+    margin-top: 50px;
+}
